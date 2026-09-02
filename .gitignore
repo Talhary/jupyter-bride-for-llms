@@ -1,0 +1,11 @@
+# Environment & Secrets
+.env
+
+# Compiled Binaries
+*.exe
+jupyter-bridge
+jupyter-bridge-linux
+
+# Temporary files
+*.tmp
+.DS_Store
